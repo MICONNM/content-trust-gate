@@ -82,4 +82,9 @@ GPLv2 or later – free for commercial and personal use
 Include `assets/screenshots/` folder for visual guidance:
 - Installation screenshot
 - BLOCK/HOLD/PASS example
+
 - Demo post and comment screenshots
+
+- ## Support & Contact
+If you find any bugs or have feature requests, please open an issue or reach out via email:
+- **Email**: yanmiayna@gmail.com
